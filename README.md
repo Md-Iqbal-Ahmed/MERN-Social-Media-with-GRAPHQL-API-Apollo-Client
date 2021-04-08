@@ -2,6 +2,9 @@
  
 This is a MERN, Social media application with GraphQL Application. Technology used, For frontend: REACT-JS and Apollo Client, Backend: EXPRESS-JS and GRAPHQL-Apollo server, React state managment system: Context-API, Authentication: JsonWebToken & BcryptJs.
 
+Live Demo : https://boring-wescoff-d1b071.netlify.app/
+
+
 # Libaries and Frameworks:
 - Front-end: ReactJs
 - Back-end: ExpressJS and GRAPHQL API
@@ -21,7 +24,6 @@ This is a MERN, Social media application with GraphQL Application. Technology us
 - User have only access to delete a comment on a post of his/her own creating comments. (have no access of  deleting in others comment)
 
 
-- Live Demo : https://boring-wescoff-d1b071.netlify.app/
 
 # HOMEPAGE WITHOUT AUTHENTICATION
 
