@@ -40,10 +40,12 @@ This is a MERN, Social media application with GraphQL Application. Technology us
 
 ![create post](https://user-images.githubusercontent.com/77459327/114030730-7fb7bc80-989c-11eb-9880-ceb08cde7831.png)
 
-# USER LIKE/UNLIKE OPTION
 
-![user like option](https://user-images.githubusercontent.com/77459327/114030741-821a1680-989c-11eb-95f9-4ec7cdd59998.png)
 
 #USER COMMENTING OPTION
 
 ![comment](https://user-images.githubusercontent.com/77459327/114030722-7e868f80-989c-11eb-8539-ca9c229aac1d.png)
+
+# USER LIKE VIEW FEATURE
+
+![user like option](https://user-images.githubusercontent.com/77459327/114030741-821a1680-989c-11eb-95f9-4ec7cdd59998.png)
