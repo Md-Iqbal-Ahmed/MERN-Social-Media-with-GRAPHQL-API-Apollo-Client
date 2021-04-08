@@ -1,4 +1,4 @@
-# MERN with GraphQL-Social-media-application
+# MERN Social Media Application with GraphQL and Apollo Client
  MERNG-Social-media
 
 
